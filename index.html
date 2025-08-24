@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sobre mim - Portfólio</title>
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Sobre mim</a></li>
+        <li><a href="formacao.html">Formação</a></li>
+        <li><a href="portfolio.html">Portfólio</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Sobre mim</h1>
+    <p>Olá! Meu nome é <strong>Julia Faustino Maciel</strong>, tenho 19 anos.</p>
+    <p>Gosto de jogar jogos como <em>Stardew Valley</em> e <em>Cult of the Lamb</em>.</p>
+    <p>Também gosto muito de pintar e desenhar 🎨.</p>
+  </main>
+</body>
+</html>
